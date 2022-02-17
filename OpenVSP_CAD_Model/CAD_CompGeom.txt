@@ -1,0 +1,25 @@
+...Comp Geom...
+4 Num Comps
+7 Total Num Meshes
+3984 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+    2.793      2.723      0.033      0.033  Wing           
+    0.289      0.271      0.003      0.003  Twin_Booms     
+    0.289      0.271      0.003      0.003  Twin_Booms     
+    0.973      0.944      0.053      0.053  Body           
+    0.533      0.522      0.004      0.004  A_Tail         
+    0.533      0.522      0.004      0.004  A_Tail         
+-------------------------------------------------
+    5.409      5.253      0.099      0.098  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+        1.397          1.361    Wing_Surf0     
+        1.397          1.361    Wing_Surf1     
+        0.289          0.271    Twin_Booms_Surf0
+        0.289          0.271    Twin_Booms_Surf1
+        0.973          0.944    Body_Surf0     
+        0.533          0.522    A_Tail_Surf0   
+        0.533          0.522    A_Tail_Surf1   
+WARNING: 1 open meshes merged
+     Merged: Wing
